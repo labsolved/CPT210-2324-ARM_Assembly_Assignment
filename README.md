@@ -7,4 +7,4 @@ Each day of late submission will cost 5% of the mark of this assignment.
 
 Please email us if you need any help with CPT210-2324 ARM Assembly Assignment
 
-Get our email on our Youtube channel's About page: https://www.youtube.com/@CodingAssignmentTutor
+ [Get our email on our Youtube channel's About page](https://www.youtube.com/@CodingAssignmentTutor/about)
