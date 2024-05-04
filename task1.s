@@ -16,7 +16,7 @@
 
 
 
-       
+       ; Tips: this is an easy task
 
 nums   DCD     -1, -2, 7, 3, -9, 0
 abs    FILL    4
