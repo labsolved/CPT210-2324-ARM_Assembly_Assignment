@@ -6,5 +6,9 @@
        ;       Hint: a number multiplied by or divided by 2 can be achieved using shift operations.
        ;       Code correctness, efficiency, clarity and simplicity are all examined in this task.
        ;
+
+
+       ; Tips: you have to understand the 32-bit IEEE 754 floating point format.
+       
 num    DCD     0xF0100080
 res    FILL    4
